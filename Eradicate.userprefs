@@ -1,10 +1,15 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Assets\Scripts\Player\MouseLook.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\My Assets\Scripts\Player\PlayerMovementState.cs">
     <Files>
-      <File FileName="Assets\My Assets\Scripts\Player\PlayerMovement.cs" Line="1" Column="1" />
-      <File FileName="Assets\My Assets\Scripts\World\Billboard.cs" Line="1" Column="1" />
-      <File FileName="Assets\My Assets\Scripts\Player\MouseLook.cs" Line="22" Column="34" />
+      <File FileName="Assets\My Assets\Scripts\Enemies\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerHealth.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\Player.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\World\InteractableObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerMovement.cs" Line="11" Column="23" />
+      <File FileName="Assets\My Assets\Scripts\Player\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\CrossPlatformInput\Scripts\PlatformSpecific\StandaloneInput.cs" Line="1" Column="1" />
+      <File FileName="Assets\My Assets\Scripts\Player\PlayerMovementState.cs" Line="54" Column="62" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
