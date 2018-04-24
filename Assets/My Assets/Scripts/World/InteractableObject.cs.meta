@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c495947a026d74b4aaf6e50e91821df0
+timeCreated: 1521737997
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - interactionSprite: {fileID: 1571906722502916, guid: 668f9ce0887b0d743aab32472a5ddb45,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

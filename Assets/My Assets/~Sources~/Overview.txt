@@ -1,0 +1,30 @@
+Style: 3d top-down
+Goal: infiltrate facility and blow it up
+Mechanics:
+	Player
+		Movement
+		EMP
+			Only 1 per level
+			Deactivates nearby robots
+		Interact with environment
+		Scan for traps
+		Make noise
+			Attracts guards
+	Enemies
+		Robots
+			Patrol paths
+			Tazers (close range weapon)
+			Will chase player if detected
+		Guards
+			Randomized paths or stationary.
+			Can be lured by distractions
+			Guns (long range weapon)
+			Will chase player if detected
+	World
+		Vents
+			Make noise on enter
+			Motion sensors that need to be turned off
+		Walls
+			Block enemy vision
+		Traps
+			Kill player on contact
